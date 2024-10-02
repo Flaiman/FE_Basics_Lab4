@@ -50,6 +50,4 @@ function redscale() {
 }
 function delimage(){
     img.remove()
-    img.style.width=originwidth
-    img.style.height=originheight
 }
