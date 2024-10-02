@@ -1,0 +1,16 @@
+#getid{
+    color: rgb(70, 130, 180);
+    background-color: #F0E68C;
+}
+#querys{
+    color: rgb(247, 220, 111);
+    background-color: #2E4053;
+}
+#img1{
+    display: flex;
+}
+button{
+    margin-top: 10px;
+    width: 100px;
+    height: 20px;
+}
